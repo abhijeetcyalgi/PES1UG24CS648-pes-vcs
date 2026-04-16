@@ -249,3 +249,6 @@ int object_read(const ObjectID *id, ObjectType *type_out, void **data_out, size_
     return 0;
 }
 // Step: header creation completed
+// Step: hash computation completed
+// Step: object write completed
+// Step: object read completed
